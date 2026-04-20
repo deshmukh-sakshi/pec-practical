@@ -17,7 +17,7 @@ artifacts:
   # include all files required to run the application
   files:
     - dist/**/*
+    - appspec.yml
+    - scripts/**/*
     #- src/**/*
     #- package.json
-    #- appspec.yml
-    #- scripts/**/*
